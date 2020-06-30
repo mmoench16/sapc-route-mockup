@@ -1,7 +1,14 @@
 ## Quick Mock-up for SAPC
 ### Strava vs. Komoot - how routes are displayed when embedded on website
 
-You can use the [editor on GitHub](https://github.com/mmoench16/sapc-route-mockup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut viverra, urna sit amet aliquet aliquet, dui sem ultricies lacus, suscipit convallis sem lectus vel lectus. Aenean lobortis elit velit, sit amet tincidunt urna porttitor id. Pellentesque nec vulputate velit, et dictum enim. Morbi auctor, ligula non tristique fringilla, felis libero rhoncus quam, sed tincidunt enim sapien in lectus. Vivamus vel facilisis risus, vel sagittis quam. Aenean congue urna ac consequat imperdiet. Duis ut elit ac nunc venenatis tristique.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Strava
 
+embed here
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut viverra, urna sit amet aliquet aliquet, dui sem ultricies lacus, suscipit convallis sem lectus vel lectus. Aenean lobortis elit velit, sit amet tincidunt urna porttitor id. Pellentesque nec vulputate velit, et dictum enim. Morbi auctor, ligula non tristique fringilla, felis libero rhoncus quam, sed tincidunt enim sapien in lectus. Vivamus vel facilisis risus, vel sagittis quam. Aenean congue urna ac consequat imperdiet. Duis ut elit ac nunc venenatis tristique.
+
+### Komoot
+
+embed here
